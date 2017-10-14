@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopMovies</string>
+    <string name="detail_label">MovieDetail</string>
+    <string name="pop_sort">sort by popularity</string>
+    <string name="rate_sort">sort by top rated</string>
+    <string name="review">actually i love this movie </string>
+    <string name="fav_button">MARK AS FAVORITE</string>
+    <string name="favorite">Show favorites</string>
+</resources>
