@@ -1,3 +1,7 @@
-# popMovies
-these are the first two projects for the udacity android developer nanodegree ,popMovies stage one and two
-you need to insert your API key in order to fectch the movies data
+
+## Description
+PopMovies is Android application that displays the most popular and top rated movies along with their details including  movie poster, name, released date, rate, trailers and reviews from themoviedb.org API.
+
+## Intended User
+The app is for movies and cenima lover.
+
